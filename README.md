@@ -27,4 +27,4 @@ The dataset includes IPL statistics scraped and structured from publicly availab
 ![image](https://github.com/araza01/IPL-PowerBi-Dashboard/blob/master/Snapshot%20of%20the%20Dashboard.png)
 
 ### Download Report
-Download [.pbix](https://github.com/araza01/IPL-PowerBi-Dashboard/blob/master/IPL_Analysis.pbix) file.
+:file_folder: Download [.pbix](https://github.com/araza01/IPL-PowerBi-Dashboard/blob/master/IPL_Analysis.pbix) file.

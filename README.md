@@ -4,7 +4,7 @@
 IPL Analysis Dashboard
 
 ### Description
-This project is an interactive Power BI dashboard that provides a comprehensive analysis of IPL (Indian Premier League) data.<br/>
+This project is an interactive Power BI dashboard that provides a comprehensive analysis of IPL (Indian Premier League) data.
 It highlights batting, bowling, team performance, venue statistics, and toss results across multiple IPL seasons.
 
 ### Features

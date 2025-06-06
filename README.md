@@ -23,6 +23,10 @@ It highlights batting, bowling, team performance, venue statistics, and toss res
 ### Data Source
 The dataset includes IPL statistics scraped and structured from publicly available cricket data sources and kaggle.com.
 
+### Dataset
+:open_file_folder: [ipl_match_data](https://github.com/araza01/IPL-PowerBi-Dashboard/blob/master/Dataset/ipl_matches_2008_2022.csv)
+:open_file_folder: [ipl_ball_by_ball_data](https://github.com/araza01/IPL-PowerBi-Dashboard/blob/master/Dataset/ipl_ball_by_ball_2008_2022.csv)
+
 ### Dashboard Preview
 ![image](https://github.com/araza01/IPL-PowerBi-Dashboard/blob/master/Snapshot%20of%20the%20Dashboard.png)
 

@@ -1,4 +1,4 @@
-# IPL-PowerBi-Dashboard
+# IPL_PowerBi_Dashboard
 
 ### Project Title
 IPL Analysis Dashboard

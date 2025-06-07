@@ -7,6 +7,14 @@ IPL Analysis Dashboard
 This project is an interactive Power BI dashboard that provides a comprehensive analysis of IPL (Indian Premier League) data.
 It highlights batting, bowling, team performance, venue statistics, and toss results across multiple IPL seasons.
 
+### KPIs Requirement :scroll:
+1. Find the Title Winner, Orange Cap Winner, Purple Cap Winner, Tournament 6's & 4's for the respective seasons of IPL.
+2. Develop IPL batting & bowling statistics and add a filter that allows users to select the bowler & batsman to view their statistics.
+3. Winning percentage based on the Toss decision.
+4. Matches won by Venue.
+5. Total wins by team in a Season.
+6. Matches won based on the Result type.
+
 ### Features
 - **Title & Awards:** Displays the title-winning team, Orange Cap & Purple Cap holders.
 - **Batting Stats:** Filter-based exploration of total runs, 4's, 6's & Strike Rate per batsman.
@@ -18,7 +26,7 @@ It highlights batting, bowling, team performance, venue statistics, and toss res
 - :memo: SQL Server - To connect with Power BI for the ETL process.
 - :bar_chart: Power BI Desktop - For Data Visualization & Report creatioon.
 - :brain: DAX Query -  To calculate Measures & KPIs.
-- :clipboard: GitHub - For Project Documentation.
+- :ledger: GitHub - For Project Documentation.
 
 ### Data Source
 The dataset includes IPL statistics scraped and structured from publicly available cricket data sources and kaggle.com.

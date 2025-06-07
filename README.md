@@ -25,6 +25,7 @@ It highlights batting, bowling, team performance, venue statistics, and toss res
 ### Tech Stack
 - :memo: SQL Server - To connect with Power BI for the ETL process.
 - :bar_chart: Power BI Desktop - For Data Visualization & Report creatioon.
+- :clipboard: Power Query - Data Transformation & Cleaning for reshaping and preparing the data.
 - :brain: DAX Query -  To calculate Measures & KPIs.
 - :ledger: GitHub - For Project Documentation.
 
